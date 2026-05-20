@@ -1,0 +1,14 @@
+1|LeThiBong|123456|Le Thi Bong|Vat 
+3|NguyenVanCuong|123456|Nguyen Van Cuong|CNTT
+4|PhamThiDung|123456456|Pham Thi Dung|Ngoai ngu
+5|HoangVanEm|123456456|Hoang Van Em|Ky thuat
+8|TranVanTuyen|123456|LeMinhTuan|654321
+2|PhamNgocHan|123456|Pham Ngoc Han|Quan tri kinh doanh
+3|TranGiaBao|123456|Tran Gia Bao|Ky thuat co khi
+4|VoThanhNha|123456|Vo Thanh Nha|Dien tu vien thong
+5|NguyenThiMai|123456|Nguyen Thi Mai|Ke toan
+6|DoanQuocKhanh|123456|Doan Quoc Khanh|Xay dung
+7|BuiThanhVy|123456|Bui Thanh Vy|Ngon ngu Anh
+8|HoangMinhDat|123456|Hoang Minh Dat|Tri tue nhan tao
+9|LeQuocBao|123456|Le Quoc Bao|An toan thong tin
+10|PhamThuTrang|123456|Pham Thu Trang|Marketing
